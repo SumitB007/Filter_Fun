@@ -14,14 +14,13 @@ body {
     #46eefa,
     #5ffbf1
   );
-  margin: 20px;
 }
 
-#can1 {
+/*#can1 {
   height: 576px;
   width: 720x;
   border: 1px solid black;
-}
+}*/
 
 input {
   font-size: 14px;
